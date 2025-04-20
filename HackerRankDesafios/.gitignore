@@ -1,0 +1,14 @@
+# Build
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Outras
+*.user
+*.suo
+*.cache
