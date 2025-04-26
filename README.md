@@ -18,5 +18,12 @@
     <strong>Maximum Draws</strong><br>
       <p>Calcular o número mínimo de retiradas necessárias para garantir um par de meias da mesma cor.</p>
   </li>
+
+  <br>
+
+  <li>
+    <strong>HandShake</strong>
+      <p>Calcular o número de apertos de mão que vao ser dados na sala do conselho, dado o número de participantes</p>
+  </li>
   
 </ul>
