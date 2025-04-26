@@ -1,4 +1,4 @@
-<h1>HackerRank Desafios</h1>
+<h1 style="color: darkblue;">HackerRank Desafios</h1>
 
 <p>Repositório com desafios do HackerRank, utilizando <strong>C#</strong> ou <strong>PHP</strong>.</p>
 
