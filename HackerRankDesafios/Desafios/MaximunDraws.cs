@@ -24,6 +24,8 @@ public class MaximunDraws
 
     public static int maximumDraws(int n)
     {
-        return 0;
+        //n é o numero de pares de meias
+        // vai retornar o número mínimo de meias a remover para garantir um par correspondente.
+        return n+1;
     }
 }
